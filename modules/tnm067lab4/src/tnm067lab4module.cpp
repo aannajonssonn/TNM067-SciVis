@@ -43,4 +43,5 @@ TNM067lab4Module::TNM067lab4Module(InviwoApplication* app) : InviwoModule(app, "
     registerProcessor<VectorFieldInformation>();
 }
 
+
 }  // namespace inviwo
